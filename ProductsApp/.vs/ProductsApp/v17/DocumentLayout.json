@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\emmaj\\source\\repos\\ProductsApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{102537E5-4810-4A85-BEBC-91E02E6BC0CE}|ProductsApp.Tests\\ProductsApp.Tests.csproj|c:\\users\\emmaj\\source\\repos\\productsapp\\productsapp.tests\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{102537E5-4810-4A85-BEBC-91E02E6BC0CE}|ProductsApp.Tests\\ProductsApp.Tests.csproj|solutionrelative:productsapp.tests\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{102537E5-4810-4A85-BEBC-91E02E6BC0CE}|ProductsApp.Tests\\ProductsApp.Tests.csproj|C:\\Users\\emmaj\\source\\repos\\ProductsApp\\productsapp.tests\\testsimpleproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{102537E5-4810-4A85-BEBC-91E02E6BC0CE}|ProductsApp.Tests\\ProductsApp.Tests.csproj|solutionrelative:productsapp.tests\\testsimpleproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0EDFABA9-6C0D-4A0D-84FC-D25222047761}|ProductsApp\\ProductsApp.csproj|C:\\Users\\emmaj\\source\\repos\\ProductsApp\\productsapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EDFABA9-6C0D-4A0D-84FC-D25222047761}|ProductsApp\\ProductsApp.csproj|solutionrelative:productsapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0EDFABA9-6C0D-4A0D-84FC-D25222047761}|ProductsApp\\ProductsApp.csproj|C:\\Users\\emmaj\\source\\repos\\ProductsApp\\productsapp\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EDFABA9-6C0D-4A0D-84FC-D25222047761}|ProductsApp\\ProductsApp.csproj|solutionrelative:productsapp\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102537E5-4810-4A85-BEBC-91E02E6BC0CE}|ProductsApp.Tests\\ProductsApp.Tests.csproj|c:\\users\\emmaj\\source\\repos\\productsapp\\productsapp.tests\\testsimpleproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102537E5-4810-4A85-BEBC-91E02E6BC0CE}|ProductsApp.Tests\\ProductsApp.Tests.csproj|solutionrelative:productsapp.tests\\testsimpleproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,50 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "packages.config",
-              "DocumentMoniker": "C:\\Users\\emmaj\\source\\repos\\ProductsApp\\ProductsApp.Tests\\packages.config",
-              "RelativeDocumentMoniker": "ProductsApp.Tests\\packages.config",
-              "ToolTip": "C:\\Users\\emmaj\\source\\repos\\ProductsApp\\ProductsApp.Tests\\packages.config",
-              "RelativeToolTip": "ProductsApp.Tests\\packages.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-03-25T02:51:32.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TestSimpleProductController.cs",
               "DocumentMoniker": "C:\\Users\\emmaj\\source\\repos\\ProductsApp\\ProductsApp.Tests\\TestSimpleProductController.cs",
               "RelativeDocumentMoniker": "ProductsApp.Tests\\TestSimpleProductController.cs",
               "ToolTip": "C:\\Users\\emmaj\\source\\repos\\ProductsApp\\ProductsApp.Tests\\TestSimpleProductController.cs",
               "RelativeToolTip": "ProductsApp.Tests\\TestSimpleProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T00:55:29.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\emmaj\\source\\repos\\ProductsApp\\ProductsApp\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "ProductsApp\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\emmaj\\source\\repos\\ProductsApp\\ProductsApp\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "ProductsApp\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T00:45:02.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Products.cs",
               "DocumentMoniker": "C:\\Users\\emmaj\\source\\repos\\ProductsApp\\ProductsApp\\Models\\Products.cs",
               "RelativeDocumentMoniker": "ProductsApp\\Models\\Products.cs",
